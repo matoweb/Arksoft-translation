@@ -1,4 +1,7 @@
 <?php
+$l_sys_login = "";
+$l_sys_logout = "";
+$l_sys_download = "";
 $l_sys_upload = "";
 $l_sys_uptime_7days = "";
 $l_page_image = "";
