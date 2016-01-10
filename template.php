@@ -44,4 +44,4 @@ $l_lang_English = "";
 $l_lang_Japanese = "";
 $l_lang_Korean = "";
 $l_lang_Chinese = "";
-$l_lang_French$l_ = "";
+$l_lang_French = "";
