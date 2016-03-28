@@ -1,5 +1,4 @@
 <?php
-<?php
 $lang["app_download"] = " 버전 다운로드";
 $lang["img_delete"] = "삭제";
 $lang["img_deleted"] = "삭제했습니다!";
@@ -15,7 +14,6 @@ $lang["img_row_link"] = "직접 링크";
 $lang["img_share"] = "공유";
 $lang["img_share_link"] = "공유 링크";
 $lang["img_share_page"] = "공유 페이지보기";
-$lang["img_share_public"] = "댓글을 달아 공유 (선택 사항)";
 $lang["img_shared"] = "공유 된 이미지";
 $lang["img_short_link"] = "단축 URL";
 $lang["img_tips_dd"] = "이미지를 드래그 앤 드롭하거나<br />클릭하여 파일을 선택합니다.";
@@ -28,10 +26,12 @@ $lang["img_up_file"] = "또는 파일을 선택";
 $lang["img_upload_link"] = "사진을 업로드!";
 $lang["img_enable_fav"] = "자신이 좋아하는 이미지를 표시하는";
 $lang["img_disable_fav"] = "이미지 라이브러리로 돌아 가기";
+$lang["img_unselect"] = "모든 선택을 해제";
+$lang["img_select_delete"] = "선택한 항목을 삭제하기";
 $lang["info_registed_users"] = "등록 사용자 수 :";
 $lang["info_service_list"] = "수있는 옷";
 $lang["info_site_top"] = "무엇이 사이트";
-$lang["info_site_top_sub"] = "관리인이 멋대로 서비스 라든지하고있는 사이트입니다.<br />방자 너무 개발 도중에 버그가 많은 것이이 사이트의 특징이므로 만약 버그를 발견 한 경우 Skype 나 이메일로보고를 부탁합니다.";
+$lang["info_site_top_sub"] = "관리인이 멋대로 서비스 라든지하고있는 사이트입니다. 방자 너무 개발 도중에 버그가 많은 것이이 사이트의 특징이므로 만약 버그를 발견 한 경우 Skype 나 이메일로보고를 부탁합니다.";
 $lang["info_today_pv"] = "오늘의 조회수 :";
 $lang["info_upload_image_count"] = "업로드 된 이미지의 개수 :";
 $lang["info_url_count"] = "단축 URL 수 :";
